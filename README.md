@@ -10,7 +10,7 @@ https://wildfly.org
 
 * Fast Startup
 * Small Footprint
-* Modular Design
+* Modular Designewqe
 * Unified Configuration and Management
 
 And of course Jakarta EE!
